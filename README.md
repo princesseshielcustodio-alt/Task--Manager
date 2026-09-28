@@ -23,11 +23,11 @@ SQLite
 
 ## 1. Task Board
 In this page, this where can add a task and it will display in this page.
-<img width="1600" height="900" alt="image" src="https://effective-fiesta-p7wpp6w696xx25qr-8000.app.github.dev/tasks" />
+<img width="1600" height="900" alt="image" src="<img width="1920" height="1038" alt="{03359BD3-83C4-43A1-9933-9B4DC5A40D8E}" src="https://github.com/user-attachments/assets/af51b22e-dccd-4c71-9a53-396551cf535e" />" />
 
 ## 2. Adding a task
 This is how will add a task or works you want to display and it requires task name, description, due date, then save it.
-<img width="1600" height="900" alt="image" src="https://effective-fiesta-p7wpp6w696xx25qr-8000.app.github.dev/tasks/create" />
+<img width="1600" height="900" alt="image" src="![Uploading {AF56125F-0328-454E-B317-F6D1955C897C}.png…]()" />
 
 ## 3. Display the task<!-- You can add your third image here when you have the link -->
 
